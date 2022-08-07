@@ -3,6 +3,16 @@
 I did this to study multithreading and socket programming in cpp. Also a way to avoid things I should focus on irl :)
 Hopefully, I would be able to write up my learning from this in my non existent blog.
 
+## Features
+- [x] Accept connections
+- [x] Parse incoming HTTP request messages
+- [x] Handle GET and HEAD HTTP methods
+- [x] Ability to send Response header and payload
+- [x] Concurrent request handling using worker threads. 
+
+## Known issues
+- [ ] Only support HTTP 1.1
+- [ ] HTTP request and URI parsing is purely experiemental
 
 ## Learnings
 
