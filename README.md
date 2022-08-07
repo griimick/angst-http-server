@@ -20,6 +20,9 @@ Hopefully, I would be able to write up my learning from this in my non existent 
 	2. file descriptor
 	3. socket
 	4. listener and worker threads
+3. HTTP and REST
+	1. HEAD method
+	2. HTTP request and response structure
 
 
 ## References
