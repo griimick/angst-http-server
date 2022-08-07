@@ -4,6 +4,24 @@ I did this to study multithreading and socket programming in cpp. Also a way to 
 Hopefully, I would be able to write up my learning from this in my non existent blog.
 
 
+## Learnings
+
+1. C++11 specifics
+    1. default keyword
+	2. move semantics
+	3. copy constructor
+	4. explicit keyword
+	5. constexpr keyword
+	6. lambda function definition
+	7. error types
+	8. Rvalue references (&&)
+2. linux specifics
+	1. epoll
+	2. file descriptor
+	3. socket
+	4. listener and worker threads
+
+
 ## References
 
 
