@@ -13,6 +13,7 @@ set(SRC_DIR src)
 set(TEST_DIR test)
 
 add_executable(AngstHttpServer
+    ${SRC_DIR}/main.cpp
     ${SRC_DIR}/http_server.cpp
     ${SRC_DIR}/http_msg.cpp
 )
