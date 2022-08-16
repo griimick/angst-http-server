@@ -43,3 +43,4 @@ Hopefully, I would be able to write up my learning from this in my non existent 
 - [A simple HTTP server from scratch](https://trungams.github.io/2020-08-23-a-simple-http-server-from-scratch/)
 - [Concurrent HTTP Server with Epoll](https://kaleid-liner.github.io/blog/2019/06/02/epoll-web-server.html)
 - [The Little Book of Semaphores – Green Tea Press](https://greenteapress.com/wp/semaphores/)
+- [Node's Event Loop From the Inside Out by Sam Roberts, IBM](https://www.youtube.com/watch?v=P9csgxBgaZ8)
